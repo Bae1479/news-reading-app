@@ -19,15 +19,15 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: 20
 
       - name: Run generator
         run: node scripts/generateReading.mjs
 
-      - name: Commit & push
+      - name: Commit and push updated reading
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add public/todayReading.json
-          git commit -m "update reading" || echo "no changes"
+          git commit -m "update daily reading" || echo "no changes"
           git push
