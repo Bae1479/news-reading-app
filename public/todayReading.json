@@ -2,42 +2,102 @@
   "date": "2026-04-20",
   "level": 1,
   "levelLabel": "LEVEL 1",
-  "category": "Economy",
-  "title": "Test Stable Version",
-  "sourceTopic": "test",
-  "estimatedWordCount": 120,
+  "category": "History",
+  "title": "Why Strong Empires Needed More Than Armies",
+  "sourceTopic": "empires, communication, trade networks, local elites, legitimacy",
+  "estimatedWordCount": 340,
   "passage": [
-    "This is a stable test paragraph for debugging.",
-    "If this works, we know the problem is in the complex generator."
+    "When people imagine powerful empires, they usually picture armies, conquest, and rulers at the center of command. Military force certainly mattered, but it was rarely enough on its own. Large empires endured only when they could move information, collect resources, and persuade distant populations that imperial rule had some legitimacy. In that sense, empires relied on networks as much as on soldiers.",
+    "Administration was one of the greatest challenges. Conquering territory could take months, but governing it could require generations of adaptation. Without systems of communication, tax collection, record keeping, and local enforcement, even a victorious empire could become unstable. Orders from the center might arrive too late, officials might act corruptly, and local leaders might develop interests that no longer matched those of the imperial government.",
+    "Trade networks strengthened empires in several ways. They generated revenue, linked regions economically, and moved not only goods but also information, languages, and customs. A stable imperial environment could make trade safer by protecting roads, ports, and caravan routes. In return, merchants and local elites often had reasons to cooperate with imperial authorities. Economic integration therefore gave empires a source of resilience that extended beyond military power.",
+    "Local cooperation was equally important. Most empires did not rule every province in exactly the same way. Instead, they often depended on local elites to collect taxes, maintain order, and translate central policies into local practice. This arrangement was efficient, but it also created risk. If local support weakened, rebellion became more likely. Empires had to negotiate constantly by rewarding loyalty, recognizing tradition, and punishing resistance when necessary.",
+    "Legitimacy mattered as much as force. Rulers used ceremonies, laws, monuments, and official language to present themselves as protectors of order rather than simple conquerors. If subjects believed imperial rule brought peace, prosperity, or justice, cooperation became easier and the need for constant coercion was reduced. Looking at imperial history in this way changes the picture. Durable power was not just military. It depended on communication, coordination, trade, and the ability to make rule appear acceptable across distance."
   ],
   "questions": [
     {
-      "q": "What is this?",
+      "q": "What is the main idea of the passage?",
       "options": [
-        "A test",
-        "A failure",
-        "A bug",
-        "An error"
+        "Empires survived only through military strength",
+        "Durable empires depended on networks as well as armies",
+        "Trade damaged imperial stability",
+        "Local elites were unimportant"
       ],
-      "answer": 0,
-      "explanation": "It is a test."
+      "answer": 1,
+      "explanation": "The passage argues that communication, trade, and legitimacy were essential alongside military force."
+    },
+    {
+      "q": "Why was administration difficult for empires?",
+      "options": [
+        "Because conquest always failed",
+        "Because local populations all spoke one language",
+        "Because governing required communication and institutions",
+        "Because trade made rule impossible"
+      ],
+      "answer": 2,
+      "explanation": "The author explains that governing required communication, taxation, records, and enforcement."
+    },
+    {
+      "q": "How did trade help empires?",
+      "options": [
+        "By removing the need for armies",
+        "By generating revenue and linking regions",
+        "By preventing all rebellion",
+        "By ending local traditions"
+      ],
+      "answer": 1,
+      "explanation": "Trade supported revenue, integration, and resilience."
+    },
+    {
+      "q": "Why could dependence on local elites be risky?",
+      "options": [
+        "They always supported rebellion immediately",
+        "They weakened trade routes by design",
+        "Their interests could move away from the center",
+        "They could not collect taxes"
+      ],
+      "answer": 2,
+      "explanation": "The passage says local leaders could become less aligned with imperial authorities."
+    },
+    {
+      "q": "What role did legitimacy play?",
+      "options": [
+        "It made military force irrelevant",
+        "It helped reduce the need for constant coercion",
+        "It prevented all corruption",
+        "It mattered only in capitals"
+      ],
+      "answer": 1,
+      "explanation": "If rule seemed acceptable, cooperation increased and less force was needed."
     }
   ],
   "summary": {
-    "text": "This is a (test) summary.",
+    "text": "Empires endured not only through armies but through (communication), trade, and political (legitimacy).",
     "answers": [
-      "test"
+      "communication",
+      "legitimacy"
     ]
   },
   "literalSentences": [
-    "This is a test sentence.",
-    "Debugging is important.",
-    "We fix errors step by step."
+    "In that sense, empires relied on networks as much as on soldiers.",
+    "Economic integration therefore gave empires a source of resilience that extended beyond military power.",
+    "Durable power was not just military."
   ],
   "vocabHints": [
     {
-      "word": "test",
-      "meaning": "trial"
+      "word": "policy",
+      "meaning": "an official plan or course of action"
+    },
+    {
+      "word": "investment",
+      "meaning": "money used for future growth"
+    },
+    {
+      "word": "regulation",
+      "meaning": "official control or rules"
+    },
+    {
+      "word": "legitimacy",
+      "meaning": "accepted rightfulness"
     }
   ],
   "tts": {
