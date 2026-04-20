@@ -10,5 +10,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check connection
-        run: echo "Workflow connected"
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Run generator
+        run: node scripts/generateReading.mjs
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add public/todayReading.json
+          git commit -m "update reading" || echo "no changes"
+          git push
