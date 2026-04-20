@@ -1,0 +1,14 @@
+name: Generate Daily Reading
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 21 * * *"
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check connection
+        run: echo "Workflow connected"
