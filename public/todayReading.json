@@ -1,86 +1,86 @@
 {
-  "date": "2026-04-21",
+  "date": "2026-04-23",
   "level": 1,
   "levelLabel": "LEVEL 1",
-  "category": "Economy",
-  "title": "Why High Interest Rates Still Matter",
-  "sourceTopic": "interest rates, inflation, consumption, investment, policy timing",
-  "estimatedWordCount": 457,
+  "category": "AI",
+  "title": "Why Governments Are Debating AI Rules",
+  "sourceTopic": "AI regulation, innovation, public trust, labor change, safety",
+  "estimatedWordCount": 379,
   "passage": [
-    "Interest rates remain one of the most closely watched tools in modern economic policy. When central banks raise rates, they usually want to reduce inflation by slowing demand. If borrowing becomes more expensive, households and firms tend to spend less freely. In theory, this helps cool rapid price growth. In practice, however, the outcome is rarely simple. Policies designed to reduce inflation can also weaken hiring, delay investment, and increase pressure on people who already face high living costs. That is why debates about interest rates continue even when inflation appears to be easing.",
-    "For households, the impact is often direct. Mortgage payments may rise, credit card balances become more expensive, and people may delay large purchases such as cars, appliances, or home improvements. Even people without major debt can feel the effect. When consumer spending slows, stores place smaller orders, service industries become cautious, and employers may hesitate before expanding payrolls. In that way, a decision announced by a central bank can gradually affect everyday life through many channels at once.",
-    "Businesses respond to higher rates in similar ways. A company planning to open a new branch, build a factory, or invest in research has to ask whether future returns are still worth the additional financing cost. If loans become more expensive, managers often postpone expansion unless expected profits are especially strong. Economists sometimes argue that this is necessary because excessive investment during a boom can feed inflation further. But if business spending falls too sharply, the economy may lose momentum in ways that last beyond the period of high inflation.",
-    "The problem becomes more difficult because inflation does not come from one source alone. Sometimes prices rise because consumer demand is strong. At other times, inflation is driven by supply disruptions, such as energy shortages, transport delays, or conflict that affects trade routes. Interest-rate policy can influence spending, but it cannot directly produce more oil, repair damaged logistics, or solve geopolitical tension. As a result, central banks are often criticized from opposite directions: some people say they are doing too much, while others insist they are not doing enough.",
-    "Timing is therefore crucial. If rates are reduced too early, inflation may return before expectations become stable. If rates remain high for too long, an unnecessary slowdown may develop. Policymakers must study wage growth, labor-market strength, consumer sentiment, and business activity rather than rely on a single statistic. They also care about expectations. If firms and workers begin to assume inflation will remain high, they may raise prices and wage demands in ways that make inflation harder to control. For that reason, interest-rate debates are ultimately about balance. Central banks are trying to preserve price stability without damaging employment, investment, and public confidence more than necessary."
+    "Artificial intelligence is no longer viewed only as a technical advance. It is increasingly discussed as an issue of policy, labor, education, competition, and public trust. As AI systems become more capable in writing, search, coding, and image generation, governments face a difficult question: how can they support innovation without allowing harmful uses to spread too quickly? That question lies at the center of current debates over AI regulation.",
+    "Supporters of regulation usually focus on safety and accountability. They argue that AI systems can generate false information, amplify bias, imitate human communication too persuasively, or be used in sensitive decisions without enough transparency. In fields such as education, hiring, healthcare, and public administration, even small errors can create unfair results at scale. For that reason, many people believe clear standards are necessary before adoption becomes too widespread.",
+    "Critics of strong regulation are not necessarily against rules. Instead, they worry about badly designed rules. If governments impose vague or heavy requirements too early, smaller firms may struggle to compete while large companies gain even more power. Some researchers also warn that countries that regulate too rigidly may fall behind in a technology likely to affect productivity, science, defense, and business strategy. From this perspective, regulation is necessary, but timing and design matter greatly.",
+    "Another challenge is that AI is not a single tool. A chatbot used for writing help does not create the same risk as a system used in medical diagnosis or autonomous transport. Lawmakers therefore must decide whether to regulate the model itself, the company deploying it, the data used to train it, or the setting in which it is applied. No single rule solves every problem. The diversity of AI applications is one reason the debate remains complicated.",
+    "Labor concerns also shape the discussion. Some people believe AI will reduce routine work and improve productivity, eventually creating new jobs. Others worry that many workers will face pressure before retraining systems are ready. Writing, design, analysis, and customer support are already changing. As a result, AI policy is not only about innovation; it is also about how social and economic transitions will be managed. Governments are trying to avoid two mistakes at once: moving too slowly to prevent harm, or moving so rigidly that useful progress is blocked."
   ],
   "questions": [
     {
-      "q": "What is the main purpose of raising interest rates?",
+      "q": "Why has AI become a political and social issue?",
       "options": [
-        "To increase household borrowing",
-        "To reduce inflationary pressure",
-        "To guarantee higher profits for firms",
-        "To eliminate all supply shortages"
+        "Because it is used only in research labs",
+        "Because its effects now reach many parts of society",
+        "Because governments write all AI software",
+        "Because AI systems have stopped improving"
       ],
       "answer": 1,
-      "explanation": "The passage says central banks usually raise rates to slow demand and reduce inflation."
+      "explanation": "The passage says AI now affects policy, labor, trust, education, and competition."
     },
     {
-      "q": "According to the passage, how can households feel the effect of higher rates?",
+      "q": "Why do supporters of regulation want clear standards?",
       "options": [
-        "Mortgage and credit costs may rise",
-        "Imported goods disappear immediately",
-        "Taxes are automatically reduced",
-        "Wages always increase"
+        "To slow all research permanently",
+        "To avoid adoption in every field",
+        "To reduce harm and improve accountability",
+        "To make large firms weaker immediately"
+      ],
+      "answer": 2,
+      "explanation": "The passage emphasizes safety, fairness, and accountability."
+    },
+    {
+      "q": "Why do critics worry about badly designed regulation?",
+      "options": [
+        "It may damage innovation and competition",
+        "It makes AI easier to use",
+        "It removes all public trust",
+        "It eliminates the need for policy"
       ],
       "answer": 0,
-      "explanation": "The passage directly mentions mortgage payments and credit card balances becoming more expensive."
+      "explanation": "The author says poor rules may burden smaller firms and slow useful progress."
     },
     {
-      "q": "Why is interest-rate policy not always enough by itself?",
+      "q": "Why is AI hard to regulate with one broad rule?",
       "options": [
-        "It applies only to large companies",
-        "It cannot directly fix supply shocks",
-        "It works only during recessions",
-        "It prevents all consumer spending"
+        "Because lawmakers ignore technology",
+        "Because all AI systems are identical",
+        "Because different applications create different risks",
+        "Because only transport systems use AI"
+      ],
+      "answer": 2,
+      "explanation": "The passage notes that chatbots, diagnosis tools, and transport systems do not create the same risks."
+    },
+    {
+      "q": "What balance are governments trying to achieve?",
+      "options": [
+        "Faster inflation and lower wages",
+        "Innovation with safety and social stability",
+        "Fewer tools and more secrecy",
+        "Less trust and more automation"
       ],
       "answer": 1,
-      "explanation": "The passage explains that rate policy cannot directly solve energy shortages, logistics problems, or conflict."
-    },
-    {
-      "q": "Why do policymakers care about expectations?",
-      "options": [
-        "Because expectations can shape inflation behavior",
-        "Because expectations replace official data",
-        "Because expectations affect only exporters",
-        "Because expectations are easy to control"
-      ],
-      "answer": 0,
-      "explanation": "If people expect inflation to stay high, they may behave in ways that keep inflation elevated."
-    },
-    {
-      "q": "Which statement best summarizes the passage?",
-      "options": [
-        "High rates help inflation but may create economic trade-offs",
-        "Interest rates affect only financial markets",
-        "Inflation is caused only by consumer spending",
-        "Central banks prefer slow growth in every situation"
-      ],
-      "answer": 0,
-      "explanation": "The passage emphasizes both the usefulness and the cost of high interest rates."
+      "explanation": "The conclusion says governments are trying to support useful progress while preventing harm."
     }
   ],
   "summary": {
-    "text": "High interest rates are meant to (reduce) inflation, but they can also slow spending, delay (investment), and create difficult trade-offs.",
+    "text": "Governments are debating AI rules because they must balance (innovation) with safety, fairness, and public (trust).",
     "answers": [
-      "reduce",
-      "investment"
+      "innovation",
+      "trust"
     ]
   },
   "literalSentences": [
-    "If borrowing becomes more expensive, households and firms tend to spend less freely.",
-    "A decision announced by a central bank can gradually affect everyday life through many channels at once.",
-    "Interest-rate debates are ultimately about balance."
+    "That question lies at the center of current debates over AI regulation.",
+    "No single rule solves every problem.",
+    "AI policy is not only about innovation; it is also about how social and economic transitions will be managed."
   ],
   "vocabHints": [
     {
