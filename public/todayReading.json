@@ -1,86 +1,86 @@
 {
-  "date": "2026-04-26",
+  "date": "2026-04-28",
   "level": 1,
   "levelLabel": "LEVEL 1",
-  "category": "World",
-  "title": "Why Regional Conflict Can Become a Global Economic Issue",
-  "sourceTopic": "regional conflict, shipping routes, energy prices, financial uncertainty",
-  "estimatedWordCount": 366,
+  "category": "History",
+  "title": "Why Strong Empires Needed More Than Armies",
+  "sourceTopic": "empires, communication, trade networks, local elites, legitimacy",
+  "estimatedWordCount": 340,
   "passage": [
-    "Regional conflict is often described as a local crisis, but its consequences rarely remain limited to one place. In a highly connected world economy, conflict in one strategic area can affect shipping, energy prices, insurance costs, and investor confidence far beyond the region itself. For that reason, world news and economic news are frequently linked. A conflict does not have to spread geographically in order to spread economically.",
-    "One of the clearest channels is energy. If a conflict threatens an oil-producing area or an important transport route, markets may respond immediately. Prices can rise even before an actual shortage appears because traders, firms, and governments fear future disruption. Higher energy costs then affect transportation, manufacturing, agriculture, and household utility bills. What begins as a security issue can therefore become an inflation issue in countries located far from the original conflict zone.",
-    "Shipping is another major factor. Global trade depends on reliable sea routes, stable ports, and predictable insurance conditions. When conflict makes transport riskier, shipping companies may choose longer routes or reduce activity in dangerous areas. Insurance premiums may rise sharply, delivery schedules may become less reliable, and businesses may wait longer for essential components. Even firms with no direct connection to the conflict can see costs increase because the global logistics network has become less efficient.",
-    "Financial markets also react to uncertainty. During crises, investors often move toward assets they consider safer, such as government bonds or gold. Stock prices may fall, currencies may shift, and borrowing costs may change. These reactions matter because they influence real economic decisions. If companies face weaker demand or more uncertain financing conditions, they may postpone hiring and investment. Governments may also find it more expensive to support households through subsidies or emergency spending.",
-    "In the longer term, conflict can change strategy as well as prices. Countries may try to diversify energy suppliers, strengthen reserves, protect key routes, or relocate parts of supply chains. These changes are costly, but crises often reveal weaknesses that had already existed. The broader lesson is that regional conflict should not be understood only in military terms. In an interconnected system, local instability can produce global consequences through trade, energy, expectations, and policy responses."
+    "When people imagine powerful empires, they usually picture armies, conquest, and rulers at the center of command. Military force certainly mattered, but it was rarely enough on its own. Large empires endured only when they could move information, collect resources, and persuade distant populations that imperial rule had some legitimacy. In that sense, empires relied on networks as much as on soldiers.",
+    "Administration was one of the greatest challenges. Conquering territory could take months, but governing it could require generations of adaptation. Without systems of communication, tax collection, record keeping, and local enforcement, even a victorious empire could become unstable. Orders from the center might arrive too late, officials might act corruptly, and local leaders might develop interests that no longer matched those of the imperial government.",
+    "Trade networks strengthened empires in several ways. They generated revenue, linked regions economically, and moved not only goods but also information, languages, and customs. A stable imperial environment could make trade safer by protecting roads, ports, and caravan routes. In return, merchants and local elites often had reasons to cooperate with imperial authorities. Economic integration therefore gave empires a source of resilience that extended beyond military power.",
+    "Local cooperation was equally important. Most empires did not rule every province in exactly the same way. Instead, they often depended on local elites to collect taxes, maintain order, and translate central policies into local practice. This arrangement was efficient, but it also created risk. If local support weakened, rebellion became more likely. Empires had to negotiate constantly by rewarding loyalty, recognizing tradition, and punishing resistance when necessary.",
+    "Legitimacy mattered as much as force. Rulers used ceremonies, laws, monuments, and official language to present themselves as protectors of order rather than simple conquerors. If subjects believed imperial rule brought peace, prosperity, or justice, cooperation became easier and the need for constant coercion was reduced. Looking at imperial history in this way changes the picture. Durable power was not just military. It depended on communication, coordination, trade, and the ability to make rule appear acceptable across distance."
   ],
   "questions": [
     {
-      "q": "What is the main argument of the passage?",
+      "q": "What is the main idea of the passage?",
       "options": [
-        "Regional conflicts stay regional in their effects",
-        "Regional conflicts can have global economic consequences",
-        "Energy prices never respond to conflict",
-        "Shipping routes are less important than before"
+        "Empires survived only through military strength",
+        "Durable empires depended on networks as well as armies",
+        "Trade damaged imperial stability",
+        "Local elites were unimportant"
       ],
       "answer": 1,
-      "explanation": "The author argues that conflict can spread economically through connected systems."
+      "explanation": "The passage argues that communication, trade, and legitimacy were essential alongside military force."
     },
     {
-      "q": "Why can energy prices rise before an actual shortage appears?",
+      "q": "Why was administration difficult for empires?",
       "options": [
-        "Because demand disappears",
-        "Because companies stop using oil permanently",
-        "Because markets fear future disruption",
-        "Because governments ban exports immediately"
+        "Because conquest always failed",
+        "Because local populations all spoke one language",
+        "Because governing required communication and institutions",
+        "Because trade made rule impossible"
       ],
       "answer": 2,
-      "explanation": "The passage says fear and expectation can push prices up even before supply is reduced."
+      "explanation": "The author explains that governing required communication, taxation, records, and enforcement."
     },
     {
-      "q": "How can shipping instability affect unrelated businesses?",
+      "q": "How did trade help empires?",
       "options": [
-        "By reducing labor costs",
-        "By improving delivery speed",
-        "By increasing delays and logistics costs",
-        "By eliminating insurance payments"
-      ],
-      "answer": 2,
-      "explanation": "The passage notes that delays and higher costs spread through supply chains."
-    },
-    {
-      "q": "How do financial markets respond during conflict?",
-      "options": [
-        "They become irrelevant",
-        "Investors often move toward safer assets",
-        "All stock prices rise",
-        "Currencies stop changing"
+        "By removing the need for armies",
+        "By generating revenue and linking regions",
+        "By preventing all rebellion",
+        "By ending local traditions"
       ],
       "answer": 1,
-      "explanation": "The passage explicitly mentions movement toward safer assets such as bonds or gold."
+      "explanation": "Trade supported revenue, integration, and resilience."
     },
     {
-      "q": "What is one long-term response mentioned in the passage?",
+      "q": "Why could dependence on local elites be risky?",
       "options": [
-        "Reducing trade permanently",
-        "Ignoring energy security",
-        "Diversifying suppliers and routes",
-        "Ending all public spending"
+        "They always supported rebellion immediately",
+        "They weakened trade routes by design",
+        "Their interests could move away from the center",
+        "They could not collect taxes"
       ],
       "answer": 2,
-      "explanation": "The author mentions diversification and supply-chain adjustment as longer-term responses."
+      "explanation": "The passage says local leaders could become less aligned with imperial authorities."
+    },
+    {
+      "q": "What role did legitimacy play?",
+      "options": [
+        "It made military force irrelevant",
+        "It helped reduce the need for constant coercion",
+        "It prevented all corruption",
+        "It mattered only in capitals"
+      ],
+      "answer": 1,
+      "explanation": "If rule seemed acceptable, cooperation increased and less force was needed."
     }
   ],
   "summary": {
-    "text": "Regional conflict can raise (energy) prices, disrupt shipping, and spread wider economic (uncertainty) across countries.",
+    "text": "Empires endured not only through armies but through (communication), trade, and political (legitimacy).",
     "answers": [
-      "energy",
-      "uncertainty"
+      "communication",
+      "legitimacy"
     ]
   },
   "literalSentences": [
-    "A conflict does not have to spread geographically in order to spread economically.",
-    "Prices can rise even before an actual shortage appears because traders, firms, and governments fear future disruption.",
-    "In an interconnected system, local instability can produce global consequences."
+    "In that sense, empires relied on networks as much as on soldiers.",
+    "Economic integration therefore gave empires a source of resilience that extended beyond military power.",
+    "Durable power was not just military."
   ],
   "vocabHints": [
     {
